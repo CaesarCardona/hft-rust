@@ -1,3 +1,12 @@
+# 1️⃣ About
+
+Uses Rust Ownership capability and integrates PostgreSQL to visualize and store stock values in the DB.
+
+<p align="center">
+  <img src="assets/hft-rust-demo.gif" alt="AI Agent Interface" width="600"/>
+</p>
+
+
 # 1️⃣ Dependencies Installation
 
 ## Rust
